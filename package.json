@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "hexo": "^7.3.0",
     "lodash": "^4.17.21"
   },
   "name": "hexlet",
