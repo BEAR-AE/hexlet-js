@@ -15,6 +15,7 @@
   "license": "ISC",
   "devDependencies": {
     "@hexlet/nodejs-package": "github:hexlet-boilerplates/nodejs-package",
-    "jest": "^29.7.0"
+    "jest": "^29.7.0",
+    "prettier": "^3.3.3"
   }
 }
